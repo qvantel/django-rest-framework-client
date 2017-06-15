@@ -1,0 +1,4 @@
+include README.md
+include conftest.py
+include LICENSE
+recursive-include tests *.py
