@@ -1,3 +1,5 @@
+[![Build status](https://api.travis-ci.org/qvantel/django-rest-framework-client.svg?branch=master)](https://travis-ci.org/qvantel/django-rest-framework-client)
+
 Django REST Framework client
 ============================
 
